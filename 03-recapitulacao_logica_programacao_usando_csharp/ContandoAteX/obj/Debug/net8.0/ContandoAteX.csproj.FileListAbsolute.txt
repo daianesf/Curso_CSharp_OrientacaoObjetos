@@ -1,0 +1,15 @@
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_csharp\ContandoAteX\bin\Debug\net8.0\ContandoAteX.exe
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_csharp\ContandoAteX\bin\Debug\net8.0\ContandoAteX.deps.json
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_csharp\ContandoAteX\bin\Debug\net8.0\ContandoAteX.runtimeconfig.json
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_csharp\ContandoAteX\bin\Debug\net8.0\ContandoAteX.dll
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_csharp\ContandoAteX\bin\Debug\net8.0\ContandoAteX.pdb
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_csharp\ContandoAteX\obj\Debug\net8.0\ContandoAteX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_csharp\ContandoAteX\obj\Debug\net8.0\ContandoAteX.AssemblyInfoInputs.cache
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_csharp\ContandoAteX\obj\Debug\net8.0\ContandoAteX.AssemblyInfo.cs
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_csharp\ContandoAteX\obj\Debug\net8.0\ContandoAteX.csproj.CoreCompileInputs.cache
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_csharp\ContandoAteX\obj\Debug\net8.0\ContandoAteX.sourcelink.json
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_csharp\ContandoAteX\obj\Debug\net8.0\ContandoAteX.dll
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_csharp\ContandoAteX\obj\Debug\net8.0\refint\ContandoAteX.dll
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_csharp\ContandoAteX\obj\Debug\net8.0\ContandoAteX.pdb
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_csharp\ContandoAteX\obj\Debug\net8.0\ContandoAteX.genruntimeconfig.cache
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_csharp\ContandoAteX\obj\Debug\net8.0\ref\ContandoAteX.dll
