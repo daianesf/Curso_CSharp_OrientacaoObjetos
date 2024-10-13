@@ -1,0 +1,15 @@
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_c#\RaioDeUmCirculo\bin\Debug\net8.0\RaioDeUmCirculo.exe
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_c#\RaioDeUmCirculo\bin\Debug\net8.0\RaioDeUmCirculo.deps.json
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_c#\RaioDeUmCirculo\bin\Debug\net8.0\RaioDeUmCirculo.runtimeconfig.json
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_c#\RaioDeUmCirculo\bin\Debug\net8.0\RaioDeUmCirculo.dll
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_c#\RaioDeUmCirculo\bin\Debug\net8.0\RaioDeUmCirculo.pdb
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_c#\RaioDeUmCirculo\obj\Debug\net8.0\RaioDeUmCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_c#\RaioDeUmCirculo\obj\Debug\net8.0\RaioDeUmCirculo.AssemblyInfoInputs.cache
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_c#\RaioDeUmCirculo\obj\Debug\net8.0\RaioDeUmCirculo.AssemblyInfo.cs
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_c#\RaioDeUmCirculo\obj\Debug\net8.0\RaioDeUmCirculo.csproj.CoreCompileInputs.cache
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_c#\RaioDeUmCirculo\obj\Debug\net8.0\RaioDeUmCirculo.sourcelink.json
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_c#\RaioDeUmCirculo\obj\Debug\net8.0\RaioDeUmCirculo.dll
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_c#\RaioDeUmCirculo\obj\Debug\net8.0\refint\RaioDeUmCirculo.dll
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_c#\RaioDeUmCirculo\obj\Debug\net8.0\RaioDeUmCirculo.pdb
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_c#\RaioDeUmCirculo\obj\Debug\net8.0\RaioDeUmCirculo.genruntimeconfig.cache
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\03-recapitulacao_logica_programacao_usando_c#\RaioDeUmCirculo\obj\Debug\net8.0\ref\RaioDeUmCirculo.dll
