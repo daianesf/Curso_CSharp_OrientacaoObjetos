@@ -1,0 +1,15 @@
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\01-logica-de-programacao\00-numeros_no_intervalo\bin\Debug\net8.0\00-numeros_no_intervalo.exe
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\01-logica-de-programacao\00-numeros_no_intervalo\bin\Debug\net8.0\00-numeros_no_intervalo.deps.json
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\01-logica-de-programacao\00-numeros_no_intervalo\bin\Debug\net8.0\00-numeros_no_intervalo.runtimeconfig.json
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\01-logica-de-programacao\00-numeros_no_intervalo\bin\Debug\net8.0\00-numeros_no_intervalo.dll
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\01-logica-de-programacao\00-numeros_no_intervalo\bin\Debug\net8.0\00-numeros_no_intervalo.pdb
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\01-logica-de-programacao\00-numeros_no_intervalo\obj\Debug\net8.0\00-numeros_no_intervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\01-logica-de-programacao\00-numeros_no_intervalo\obj\Debug\net8.0\00-numeros_no_intervalo.AssemblyInfoInputs.cache
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\01-logica-de-programacao\00-numeros_no_intervalo\obj\Debug\net8.0\00-numeros_no_intervalo.AssemblyInfo.cs
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\01-logica-de-programacao\00-numeros_no_intervalo\obj\Debug\net8.0\00-numeros_no_intervalo.csproj.CoreCompileInputs.cache
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\01-logica-de-programacao\00-numeros_no_intervalo\obj\Debug\net8.0\00-numeros_no_intervalo.sourcelink.json
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\01-logica-de-programacao\00-numeros_no_intervalo\obj\Debug\net8.0\00-numeros_no_intervalo.dll
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\01-logica-de-programacao\00-numeros_no_intervalo\obj\Debug\net8.0\refint\00-numeros_no_intervalo.dll
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\01-logica-de-programacao\00-numeros_no_intervalo\obj\Debug\net8.0\00-numeros_no_intervalo.pdb
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\01-logica-de-programacao\00-numeros_no_intervalo\obj\Debug\net8.0\00-numeros_no_intervalo.genruntimeconfig.cache
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\01-logica-de-programacao\00-numeros_no_intervalo\obj\Debug\net8.0\ref\00-numeros_no_intervalo.dll
