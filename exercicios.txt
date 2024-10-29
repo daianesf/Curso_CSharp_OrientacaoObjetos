@@ -1,11 +1,3 @@
-Estrutura sequencial
- - Exercício 05 ok
-Estrutura condicional
- - Exercício 02 ok
- - Exercício 06 ok
- - Exercício 07 ok
-Estrutura While
- - Exercício 03 ok
 Estrutura For
  - Exercício 01 
  - Exercício 02
