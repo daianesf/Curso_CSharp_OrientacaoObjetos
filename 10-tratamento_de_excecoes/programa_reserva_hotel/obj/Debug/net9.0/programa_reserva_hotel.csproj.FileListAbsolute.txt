@@ -1,0 +1,15 @@
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\programa_reserva_hotel\bin\Debug\net9.0\programa_reserva_hotel.exe
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\programa_reserva_hotel\bin\Debug\net9.0\programa_reserva_hotel.deps.json
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\programa_reserva_hotel\bin\Debug\net9.0\programa_reserva_hotel.runtimeconfig.json
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\programa_reserva_hotel\bin\Debug\net9.0\programa_reserva_hotel.dll
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\programa_reserva_hotel\bin\Debug\net9.0\programa_reserva_hotel.pdb
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\programa_reserva_hotel\obj\Debug\net9.0\programa_reserva_hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\programa_reserva_hotel\obj\Debug\net9.0\programa_reserva_hotel.AssemblyInfoInputs.cache
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\programa_reserva_hotel\obj\Debug\net9.0\programa_reserva_hotel.AssemblyInfo.cs
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\programa_reserva_hotel\obj\Debug\net9.0\programa_reserva_hotel.csproj.CoreCompileInputs.cache
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\programa_reserva_hotel\obj\Debug\net9.0\programa_reserva_hotel.sourcelink.json
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\programa_reserva_hotel\obj\Debug\net9.0\programa_reserva_hotel.dll
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\programa_reserva_hotel\obj\Debug\net9.0\refint\programa_reserva_hotel.dll
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\programa_reserva_hotel\obj\Debug\net9.0\programa_reserva_hotel.pdb
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\programa_reserva_hotel\obj\Debug\net9.0\programa_reserva_hotel.genruntimeconfig.cache
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\programa_reserva_hotel\obj\Debug\net9.0\ref\programa_reserva_hotel.dll

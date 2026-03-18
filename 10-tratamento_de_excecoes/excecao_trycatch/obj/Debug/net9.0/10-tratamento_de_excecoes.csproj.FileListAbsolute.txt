@@ -1,0 +1,15 @@
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\bin\Debug\net9.0\10-tratamento_de_excecoes.exe
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\bin\Debug\net9.0\10-tratamento_de_excecoes.deps.json
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\bin\Debug\net9.0\10-tratamento_de_excecoes.runtimeconfig.json
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\bin\Debug\net9.0\10-tratamento_de_excecoes.dll
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\bin\Debug\net9.0\10-tratamento_de_excecoes.pdb
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\obj\Debug\net9.0\10-tratamento_de_excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\obj\Debug\net9.0\10-tratamento_de_excecoes.AssemblyInfoInputs.cache
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\obj\Debug\net9.0\10-tratamento_de_excecoes.AssemblyInfo.cs
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\obj\Debug\net9.0\10-tratamento_de_excecoes.csproj.CoreCompileInputs.cache
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\obj\Debug\net9.0\10-tratamento_de_excecoes.sourcelink.json
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\obj\Debug\net9.0\10-tratamento_de_excecoes.dll
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\obj\Debug\net9.0\refint\10-tratamento_de_excecoes.dll
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\obj\Debug\net9.0\10-tratamento_de_excecoes.pdb
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\obj\Debug\net9.0\10-tratamento_de_excecoes.genruntimeconfig.cache
+C:\Users\Note2\Documents\Estudos\Curso_CSharp_OrientacaoObjetos\10-tratamento_de_excecoes\obj\Debug\net9.0\ref\10-tratamento_de_excecoes.dll
