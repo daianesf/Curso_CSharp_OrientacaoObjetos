@@ -1,0 +1,14 @@
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/LinqLambda/obj/Debug/net10.0/LinqLambda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/LinqLambda/obj/Debug/net10.0/LinqLambda.AssemblyInfoInputs.cache
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/LinqLambda/obj/Debug/net10.0/LinqLambda.AssemblyInfo.cs
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/LinqLambda/obj/Debug/net10.0/LinqLambda.csproj.CoreCompileInputs.cache
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/LinqLambda/bin/Debug/net10.0/LinqLambda
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/LinqLambda/bin/Debug/net10.0/LinqLambda.deps.json
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/LinqLambda/bin/Debug/net10.0/LinqLambda.runtimeconfig.json
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/LinqLambda/bin/Debug/net10.0/LinqLambda.dll
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/LinqLambda/bin/Debug/net10.0/LinqLambda.pdb
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/LinqLambda/obj/Debug/net10.0/LinqLambda.dll
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/LinqLambda/obj/Debug/net10.0/refint/LinqLambda.dll
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/LinqLambda/obj/Debug/net10.0/LinqLambda.pdb
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/LinqLambda/obj/Debug/net10.0/LinqLambda.genruntimeconfig.cache
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/LinqLambda/obj/Debug/net10.0/ref/LinqLambda.dll
