@@ -1,0 +1,14 @@
+/Users/daiane/Downloads/Estudos/CSharp/usingblock/bin/Debug/net10.0/usingblock
+/Users/daiane/Downloads/Estudos/CSharp/usingblock/bin/Debug/net10.0/usingblock.deps.json
+/Users/daiane/Downloads/Estudos/CSharp/usingblock/bin/Debug/net10.0/usingblock.runtimeconfig.json
+/Users/daiane/Downloads/Estudos/CSharp/usingblock/bin/Debug/net10.0/usingblock.dll
+/Users/daiane/Downloads/Estudos/CSharp/usingblock/bin/Debug/net10.0/usingblock.pdb
+/Users/daiane/Downloads/Estudos/CSharp/usingblock/obj/Debug/net10.0/usingblock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daiane/Downloads/Estudos/CSharp/usingblock/obj/Debug/net10.0/usingblock.AssemblyInfoInputs.cache
+/Users/daiane/Downloads/Estudos/CSharp/usingblock/obj/Debug/net10.0/usingblock.AssemblyInfo.cs
+/Users/daiane/Downloads/Estudos/CSharp/usingblock/obj/Debug/net10.0/usingblock.csproj.CoreCompileInputs.cache
+/Users/daiane/Downloads/Estudos/CSharp/usingblock/obj/Debug/net10.0/usingblock.dll
+/Users/daiane/Downloads/Estudos/CSharp/usingblock/obj/Debug/net10.0/refint/usingblock.dll
+/Users/daiane/Downloads/Estudos/CSharp/usingblock/obj/Debug/net10.0/usingblock.pdb
+/Users/daiane/Downloads/Estudos/CSharp/usingblock/obj/Debug/net10.0/usingblock.genruntimeconfig.cache
+/Users/daiane/Downloads/Estudos/CSharp/usingblock/obj/Debug/net10.0/ref/usingblock.dll

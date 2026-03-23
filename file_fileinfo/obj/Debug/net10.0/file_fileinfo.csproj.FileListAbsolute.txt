@@ -1,0 +1,14 @@
+/Users/daiane/Downloads/Estudos/CSharp/file_fileinfo/bin/Debug/net10.0/file_fileinfo
+/Users/daiane/Downloads/Estudos/CSharp/file_fileinfo/bin/Debug/net10.0/file_fileinfo.deps.json
+/Users/daiane/Downloads/Estudos/CSharp/file_fileinfo/bin/Debug/net10.0/file_fileinfo.runtimeconfig.json
+/Users/daiane/Downloads/Estudos/CSharp/file_fileinfo/bin/Debug/net10.0/file_fileinfo.dll
+/Users/daiane/Downloads/Estudos/CSharp/file_fileinfo/bin/Debug/net10.0/file_fileinfo.pdb
+/Users/daiane/Downloads/Estudos/CSharp/file_fileinfo/obj/Debug/net10.0/file_fileinfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daiane/Downloads/Estudos/CSharp/file_fileinfo/obj/Debug/net10.0/file_fileinfo.AssemblyInfoInputs.cache
+/Users/daiane/Downloads/Estudos/CSharp/file_fileinfo/obj/Debug/net10.0/file_fileinfo.AssemblyInfo.cs
+/Users/daiane/Downloads/Estudos/CSharp/file_fileinfo/obj/Debug/net10.0/file_fileinfo.csproj.CoreCompileInputs.cache
+/Users/daiane/Downloads/Estudos/CSharp/file_fileinfo/obj/Debug/net10.0/file_fileinfo.dll
+/Users/daiane/Downloads/Estudos/CSharp/file_fileinfo/obj/Debug/net10.0/refint/file_fileinfo.dll
+/Users/daiane/Downloads/Estudos/CSharp/file_fileinfo/obj/Debug/net10.0/file_fileinfo.pdb
+/Users/daiane/Downloads/Estudos/CSharp/file_fileinfo/obj/Debug/net10.0/file_fileinfo.genruntimeconfig.cache
+/Users/daiane/Downloads/Estudos/CSharp/file_fileinfo/obj/Debug/net10.0/ref/file_fileinfo.dll

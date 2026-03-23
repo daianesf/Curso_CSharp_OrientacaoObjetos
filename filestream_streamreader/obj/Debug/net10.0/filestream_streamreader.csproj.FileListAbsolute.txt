@@ -1,0 +1,14 @@
+/Users/daiane/Downloads/Estudos/CSharp/filestream_streamreader/bin/Debug/net10.0/filestream_streamreader
+/Users/daiane/Downloads/Estudos/CSharp/filestream_streamreader/bin/Debug/net10.0/filestream_streamreader.deps.json
+/Users/daiane/Downloads/Estudos/CSharp/filestream_streamreader/bin/Debug/net10.0/filestream_streamreader.runtimeconfig.json
+/Users/daiane/Downloads/Estudos/CSharp/filestream_streamreader/bin/Debug/net10.0/filestream_streamreader.dll
+/Users/daiane/Downloads/Estudos/CSharp/filestream_streamreader/bin/Debug/net10.0/filestream_streamreader.pdb
+/Users/daiane/Downloads/Estudos/CSharp/filestream_streamreader/obj/Debug/net10.0/filestream_streamreader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daiane/Downloads/Estudos/CSharp/filestream_streamreader/obj/Debug/net10.0/filestream_streamreader.AssemblyInfoInputs.cache
+/Users/daiane/Downloads/Estudos/CSharp/filestream_streamreader/obj/Debug/net10.0/filestream_streamreader.AssemblyInfo.cs
+/Users/daiane/Downloads/Estudos/CSharp/filestream_streamreader/obj/Debug/net10.0/filestream_streamreader.csproj.CoreCompileInputs.cache
+/Users/daiane/Downloads/Estudos/CSharp/filestream_streamreader/obj/Debug/net10.0/filestream_streamreader.dll
+/Users/daiane/Downloads/Estudos/CSharp/filestream_streamreader/obj/Debug/net10.0/refint/filestream_streamreader.dll
+/Users/daiane/Downloads/Estudos/CSharp/filestream_streamreader/obj/Debug/net10.0/filestream_streamreader.pdb
+/Users/daiane/Downloads/Estudos/CSharp/filestream_streamreader/obj/Debug/net10.0/filestream_streamreader.genruntimeconfig.cache
+/Users/daiane/Downloads/Estudos/CSharp/filestream_streamreader/obj/Debug/net10.0/ref/filestream_streamreader.dll
