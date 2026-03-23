@@ -1,0 +1,14 @@
+/Users/daiane/Downloads/Estudos/CSharp/InterfaceAluguelCarros/obj/Debug/net10.0/interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daiane/Downloads/Estudos/CSharp/InterfaceAluguelCarros/obj/Debug/net10.0/interface.AssemblyInfoInputs.cache
+/Users/daiane/Downloads/Estudos/CSharp/InterfaceAluguelCarros/obj/Debug/net10.0/interface.AssemblyInfo.cs
+/Users/daiane/Downloads/Estudos/CSharp/InterfaceAluguelCarros/obj/Debug/net10.0/interface.csproj.CoreCompileInputs.cache
+/Users/daiane/Downloads/Estudos/CSharp/InterfaceAluguelCarros/bin/Debug/net10.0/interface
+/Users/daiane/Downloads/Estudos/CSharp/InterfaceAluguelCarros/bin/Debug/net10.0/interface.deps.json
+/Users/daiane/Downloads/Estudos/CSharp/InterfaceAluguelCarros/bin/Debug/net10.0/interface.runtimeconfig.json
+/Users/daiane/Downloads/Estudos/CSharp/InterfaceAluguelCarros/bin/Debug/net10.0/interface.dll
+/Users/daiane/Downloads/Estudos/CSharp/InterfaceAluguelCarros/bin/Debug/net10.0/interface.pdb
+/Users/daiane/Downloads/Estudos/CSharp/InterfaceAluguelCarros/obj/Debug/net10.0/interface.dll
+/Users/daiane/Downloads/Estudos/CSharp/InterfaceAluguelCarros/obj/Debug/net10.0/refint/interface.dll
+/Users/daiane/Downloads/Estudos/CSharp/InterfaceAluguelCarros/obj/Debug/net10.0/interface.pdb
+/Users/daiane/Downloads/Estudos/CSharp/InterfaceAluguelCarros/obj/Debug/net10.0/interface.genruntimeconfig.cache
+/Users/daiane/Downloads/Estudos/CSharp/InterfaceAluguelCarros/obj/Debug/net10.0/ref/interface.dll
