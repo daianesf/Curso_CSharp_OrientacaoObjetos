@@ -1,0 +1,14 @@
+/Users/daiane/Downloads/Estudos/CSharp/Generics/bin/Debug/net10.0/Generics
+/Users/daiane/Downloads/Estudos/CSharp/Generics/bin/Debug/net10.0/Generics.deps.json
+/Users/daiane/Downloads/Estudos/CSharp/Generics/bin/Debug/net10.0/Generics.runtimeconfig.json
+/Users/daiane/Downloads/Estudos/CSharp/Generics/bin/Debug/net10.0/Generics.dll
+/Users/daiane/Downloads/Estudos/CSharp/Generics/bin/Debug/net10.0/Generics.pdb
+/Users/daiane/Downloads/Estudos/CSharp/Generics/obj/Debug/net10.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daiane/Downloads/Estudos/CSharp/Generics/obj/Debug/net10.0/Generics.AssemblyInfoInputs.cache
+/Users/daiane/Downloads/Estudos/CSharp/Generics/obj/Debug/net10.0/Generics.AssemblyInfo.cs
+/Users/daiane/Downloads/Estudos/CSharp/Generics/obj/Debug/net10.0/Generics.csproj.CoreCompileInputs.cache
+/Users/daiane/Downloads/Estudos/CSharp/Generics/obj/Debug/net10.0/Generics.dll
+/Users/daiane/Downloads/Estudos/CSharp/Generics/obj/Debug/net10.0/refint/Generics.dll
+/Users/daiane/Downloads/Estudos/CSharp/Generics/obj/Debug/net10.0/Generics.pdb
+/Users/daiane/Downloads/Estudos/CSharp/Generics/obj/Debug/net10.0/Generics.genruntimeconfig.cache
+/Users/daiane/Downloads/Estudos/CSharp/Generics/obj/Debug/net10.0/ref/Generics.dll
