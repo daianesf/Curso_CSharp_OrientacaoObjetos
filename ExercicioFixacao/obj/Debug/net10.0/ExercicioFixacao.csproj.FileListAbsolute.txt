@@ -1,0 +1,14 @@
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioFixacao/obj/Debug/net10.0/ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioFixacao/obj/Debug/net10.0/ExercicioFixacao.AssemblyInfoInputs.cache
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioFixacao/obj/Debug/net10.0/ExercicioFixacao.AssemblyInfo.cs
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioFixacao/obj/Debug/net10.0/ExercicioFixacao.csproj.CoreCompileInputs.cache
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioFixacao/bin/Debug/net10.0/ExercicioFixacao
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioFixacao/bin/Debug/net10.0/ExercicioFixacao.deps.json
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioFixacao/bin/Debug/net10.0/ExercicioFixacao.runtimeconfig.json
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioFixacao/bin/Debug/net10.0/ExercicioFixacao.dll
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioFixacao/bin/Debug/net10.0/ExercicioFixacao.pdb
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioFixacao/obj/Debug/net10.0/ExercicioFixacao.dll
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioFixacao/obj/Debug/net10.0/refint/ExercicioFixacao.dll
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioFixacao/obj/Debug/net10.0/ExercicioFixacao.pdb
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioFixacao/obj/Debug/net10.0/ExercicioFixacao.genruntimeconfig.cache
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioFixacao/obj/Debug/net10.0/ref/ExercicioFixacao.dll

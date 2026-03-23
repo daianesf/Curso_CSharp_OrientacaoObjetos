@@ -1,0 +1,14 @@
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioResolvido/bin/Debug/net10.0/ExercicioResolvido
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioResolvido/bin/Debug/net10.0/ExercicioResolvido.deps.json
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioResolvido/bin/Debug/net10.0/ExercicioResolvido.runtimeconfig.json
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioResolvido/bin/Debug/net10.0/ExercicioResolvido.dll
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioResolvido/bin/Debug/net10.0/ExercicioResolvido.pdb
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioResolvido/obj/Debug/net10.0/ExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioResolvido/obj/Debug/net10.0/ExercicioResolvido.AssemblyInfoInputs.cache
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioResolvido/obj/Debug/net10.0/ExercicioResolvido.AssemblyInfo.cs
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioResolvido/obj/Debug/net10.0/ExercicioResolvido.csproj.CoreCompileInputs.cache
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioResolvido/obj/Debug/net10.0/ExercicioResolvido.dll
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioResolvido/obj/Debug/net10.0/refint/ExercicioResolvido.dll
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioResolvido/obj/Debug/net10.0/ExercicioResolvido.pdb
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioResolvido/obj/Debug/net10.0/ExercicioResolvido.genruntimeconfig.cache
+/Users/daiane/Downloads/Estudos/CSharp/Delegates/ExercicioResolvido/obj/Debug/net10.0/ref/ExercicioResolvido.dll
